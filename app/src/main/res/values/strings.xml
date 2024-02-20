@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">scrollable140</string>
+    <string name="affirmation1" />
+    <string name="affirmation2" />
+    <string name="affirmation3">\n</string>
+    <string name="affirmation4" />
+    <string name="affirmation5" />
+    <string name="affirmation7" />
+    <string name="affirmation6" />
+    <string name="affirmation8" />
+    <string name="affirmation9" />
+    <string name="affirmation10" />
+</resources>
